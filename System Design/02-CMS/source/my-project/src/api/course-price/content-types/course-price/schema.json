@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "course_prices",
+  "info": {
+    "singularName": "course-price",
+    "pluralName": "course-prices",
+    "displayName": "CoursePrice"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "price": {
+      "type": "integer"
+    }
+  }
+}
